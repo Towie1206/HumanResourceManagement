@@ -22,7 +22,7 @@
 4. Run HumanResourceManagement.java
 
 ## Demo Video
-YouTube: ...
+YouTube: https://youtu.be/yPdOmpbW6cU
 
 ## Authors
 Group 4 - EAUT
